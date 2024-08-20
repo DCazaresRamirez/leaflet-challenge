@@ -26,3 +26,9 @@
     </ul>
   </li>
 </ul>
+<h2>Technologies Used</h2>
+<ul>
+  <li><strong>Leaflet.js:</strong> An open-source JavaScript library for interactive maps.</li>
+  <li><strong>D3.js:</strong> A JavaScript library for producing dynamic, data-driven visualizations in web browsers.</li>
+  <li><strong>HTML/CSS:</strong> Standard web technologies for structuring and styling the application.</li>
+</ul>
